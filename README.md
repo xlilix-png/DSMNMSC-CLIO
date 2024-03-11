@@ -1,3 +1,8 @@
+#  MULTI-MUSIC BOT BY RTX 
+▶️ simple and powerful music bot.
+▶️ consisting of various commands.
+▶️ Still in development you may face minor bugs|
+
 
 ## 🛠️ Installation
 
@@ -8,10 +13,9 @@
 ## 📜 Commands
 /help: for available commands.
 /play: plays music.
-/blush : anime gif interaction
 ...
 
-## 🤝
+## 🤝 Contributing [Contact me on Discord]
 
 **Contributions to this project are welcome! If you'd like to contribute, follow these steps:**
 
@@ -23,6 +27,25 @@
 
 # 📚 Copyright 
 
-Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
+All code in this project is authored by RTX. Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
 
 /*
+
+   MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
+
+  ██████╗░████████╗██╗░░██╗           
+  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
+  ██████╔╝░░░██║░░░░╚███╔╝░          
+  ██╔══██╗░░░██║░░░░██╔██╗░          
+  ██║░░██║░░░██║░░░██╔╝╚██╗          
+  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
+
+   FOR EMOJIS EITHER YOU CAN EDIT OR JOIN OUR DISCORD SERVER 
+   SO WE ADD BOT TO OUR SERVER SO YOU GET ANIMATED EMOJIS.
+
+   DISCORD SERVER : https://discord.gg/FUEHs7RCqz
+   YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+   FOR HELP CONTACT ME ON DISCORD
+   ## Contact    [ DISCORD SERVER :  https://discord.gg/c4kaW2sSbm ]
+*/z
