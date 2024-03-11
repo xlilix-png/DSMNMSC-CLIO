@@ -23,6 +23,6 @@
 
 # 📚 Copyright 
 
-All code in this project is authored by RTX. Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
+Please do not use this code for any public usage, such as creating YouTube videos, Git repositories, etc., without my explicit permission.
 
 /*
